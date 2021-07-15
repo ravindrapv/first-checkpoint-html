@@ -178,6 +178,11 @@ img{
   padding: 8px 25px;
   margin-top: 20px;
   color: white;
+  text-decoration: none;
+}
+.readMore{
+  text-decoration: none;
+  color: white;
 }
 
 .clear{
@@ -185,7 +190,7 @@ img{
 }
 
 h2{
-  font-size: 15px;
+  font-size: 32px;
 }
 
 .image2, .image3{
@@ -194,6 +199,9 @@ h2{
 
 .second_row{
   margin-top: 30px;
+}
+.more{
+  color: green;
 }
 
 
